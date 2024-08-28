@@ -1,0 +1,232 @@
+#container{
+    /* border: solid 2px black; */
+    background-color: #FCF6F5;
+    position: relative;
+}
+#login.highlight {
+    background-color: #990011; /* Change this to the desired background color when highlighted */
+    color: #ffffff; /* Change this to the desired text color when highlighted */
+    border-radius: 5px; /* Add border-radius for a rounded corner effect */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a subtle box shadow */
+    /* Add any additional styles for the highlighted state */
+}
+input[type="radio"] {
+        margin-right: 5px;
+        accent-color: #990011;
+    }
+
+.glyphicon-asterisk{
+    color: brown;
+    font-size: 8px;
+}
+
+footer {
+        background-color: #dfa89f;
+        padding: 20px;
+        color: black;
+    }
+
+.fa{
+    color: black;
+    background: white;
+    padding: 5px;
+    font-size: 25px;
+    border-radius: 50px;
+}
+.fa:hover{
+    opacity: 0.7;
+}
+
+#col1{
+    margin-top: 10px;
+    height: 300px;
+    font-size: 50px;
+}
+.text1{
+    margin-left: 40px;
+    margin-top: 40px;
+    color:  #990011;
+}
+.text1>h2{
+    color: #990011;
+    font-weight: bold;
+    font-weight: 600;
+}
+.text1>button{
+    height: 50px;
+    width: 150px;
+}
+
+/* .navbar{
+    height: 70px;
+}
+.navbar-brand{
+    font-size: 25px;
+} */
+
+/* #col3{
+    border: solid;
+} */
+#col4{
+    /* border: solid; */
+    height: 350px;
+}
+.text2>h2{
+    color: #990011;
+    font-weight: bold;
+    font-weight: 600;
+}
+.text2{
+    color: #990011;
+
+}
+.text2>h4{
+    font-size: 15px;
+}
+
+.text2>ul{
+    list-style: none;
+}
+
+/* --------------------------------------------------------------------------------------- */
+
+/* faqs.html */
+
+#container1{
+    background-color:#FCF6F5;
+}
+.text3>h1{
+    color: #990011;
+    font-weight: bold;
+    font-size: 100px;
+    margin-left: 20px;
+    margin-top: 50px;
+
+}
+
+#col6{
+    display: grid;
+    /* border: solid 2px black;
+    width: 300px;
+    height: 100px;
+    padding: 20px; */
+}
+
+.glyphicon-pencil,.glyphicon-search,.glyphicon-comment,.glyphicon-ok-circle,.glyphicon-earphone,.glyphicon-edit,.glyphicon-thumbs-up{
+    font-size: 35px;
+    color: rgb(177, 176, 176);
+}
+.text4{
+    color: rgb(114, 113, 113);
+    border: solid 2px white;
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+    padding-top: 25px;
+    box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.3);
+    transition: 0.4s ease-in-out transform, 0.4s ease-in-out box-shadow;
+    background-color: transparent;
+    transition: transform 0.3s ease;
+}
+.text4:hover{
+    transform: scale(1.1);
+    box-shadow: 0 50px 80px -20px rgba(179, 5, 5, 0.562);
+}
+.jumbotron{
+    color: #990011;
+}
+
+li{
+    list-style: none;
+    color: #bd3066;
+}
+.container2{
+    background-color: #c77a6f;
+}
+
+/* ---------admin Dashboard -------------------------*/
+
+.menu-section{
+    border: solid;
+    width: 100%;
+    height: 600px;
+    background-color: #FCF6F5;
+    display: fixed;
+}
+
+.menu-section>ul>li>a{
+    color: #990011;
+    padding-block: 30px;
+}
+.content{
+    border: solid;
+    height: 600px;
+}
+
+#new1,#new2{
+    visibility: hidden;
+}
+
+.menu-section {
+    background-color: #333;
+    padding: 15px;
+    color: #fff;
+}
+
+.nav.side-menu li {
+    list-style: none;
+}
+
+.nav.side-menu li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    transition: transform 0.3s ease;
+
+}
+
+.nav.side-menu li a:hover {
+    background-color: #555;
+    transform: scale(1.1);
+}
+
+.nav.side-menu ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 15px;
+}
+
+.nav.side-menu ul li a {
+    color: #ccc;
+    transition: transform 0.3s ease;
+
+
+}
+
+.nav.side-menu ul li a:hover {
+    background-color: #444;
+    transform: scale(1.1);
+}
+.fa-user-circle{
+    color: white;
+    background: none;
+    padding: 0px;
+    font-size: 15px;
+    border-radius: 0px;
+}
+
+.dress-card-container{
+        padding: 1rem;
+    }
+    .dress{
+        margin-bottom: 20px;
+    }
+    .dress-card{
+        background-color: #e0e0e058;
+        border-radius: 20px;
+    }
+
+    .dress-card a button{
+        width: 100%;
+    }

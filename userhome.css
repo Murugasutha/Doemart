@@ -1,0 +1,150 @@
+.offcanvas{
+    max-width: 270px;
+    width:100%;
+    background-color: rgb(41, 37, 37);;
+    color: #fff;
+}
+.offcanvas-body{
+    /* position: sticky;
+    top: 5px;
+    bottom: 0;
+    width: 200px;
+    height: 100vh; */
+    /* padding: 0 1.7rem; */
+    color: #fff;
+    overflow-y: auto;
+    scrollbar-color: grey rgb(41, 37, 37);
+    transition: all 0.5s linear;
+    /* background-color: rgba(113, 99, 186, 255); */
+    background-color: rgb(41, 37, 37);
+}
+li{
+    list-style: none;
+}
+
+.collapse span,.collapse i{
+    display: inline;
+}
+.logo{
+    height: 80px;
+    padding: 15px;
+}
+
+.menu{
+    height: 88% ;
+    position: relative;
+    list-style: none;
+    padding: 0;
+}
+
+.menu li{
+    padding: 1rem;
+    margin: 8px 0;
+    border-radius: Box;
+    transition: all 0.5s ease-in-out;
+}
+
+
+/* .menu li:hover{
+    background: #e0e0e058;
+    border-radius: 50px;
+} */
+.menu a{
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.menu a span{
+    overflow: hidden;
+}
+
+.menu a i{
+    font-size: 1.5rem;
+}
+.navbar{
+    position: relative;
+}
+   .nav-item {
+        position: absolute;
+        right: 70px;
+        top: 4px;
+
+    }
+    .nav-link a{
+        color: #fff;
+    }
+
+    .nav-link:hover{
+        color: #fff;
+    }
+/* .main--content{
+        position: relative;
+        width: 100%;
+        display: flex;
+    } */
+
+    .cinner{
+        height: 450px;
+   }
+   .cimg{
+        height: 100%;
+        object-fit:cover;
+        filter: brightness(0.5);
+   }
+   /* .card--container{
+        display: flex;
+        flex-wrap: wrap;
+   } */
+
+   .card--container .row a{
+        text-decoration: none;
+        color: black;
+    }
+    .owl--container{
+        background-color: #e0e0e058;
+        height: 260px;
+        border-radius: 25px;
+        padding: 1rem;
+    }
+
+    footer {
+        background-color: black;
+        padding: 20px;
+        color: white;
+    }
+    footer a{
+        text-decoration: none;
+    }
+
+    footer .container .a{
+        color: white;
+    }
+    .fb,.tw,.in,.pt{
+        color: black;
+        background: white;
+        padding: 5px;
+        font-size: 25px;
+        border-radius: 50px;
+    }
+    .fa:hover{
+        opacity: 0.7;
+        text-decoration: none;
+    }
+    .dress-card-container{
+        padding: 1rem;
+    }
+    .dress{
+        margin-bottom: 20px;
+    }
+    .dress-card{
+        background-color: #e0e0e058;
+        border-radius: 20px;
+    }
+
+    .dress-card a button{
+        width: 100%;
+    }
