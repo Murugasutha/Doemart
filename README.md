@@ -67,6 +67,65 @@ DoEmart is an online business directory platform designed to help users find and
 - **Search for Businesses** using the search bar.
 - **Leave Reviews and Ratings** on business profiles.
 
+## 📸 Screenshots
+
+### Homepage
+![Homepage Screenshot](doEmart-screenshots/homepage.png)
+
+### Admin Login
+![Admin login screenshot](doEmart-screenshots/adminLogin.png)
+
+### Admin Dashboard
+![shopkeeper login screenshot](doEmart-screenshots/AdminDashboard.png)
+![shopkeeper login screenshot](doEmart-screenshots/AdminDashboard2.png)
+![shopkeeper login screenshot](doEmart-screenshots/AdminDashboard3.png)
+
+### Shopkeeper Signup
+![shopkeeper signup screenshot](doEmart-screenshots/shopkeeperSignup.png)
+
+### Shopkeeper Login
+![shopkeeper login screenshot](doEmart-screenshots/shopkeeperLogin.png)
+
+### Shopkeeper Dashboard
+![shopkeeper dashboard screenshot](doEmart-screenshots/ShopkeeperDashboard.png)
+
+### Shopkeeper Profile
+![shopkeeper profile screenshot](doEmart-screenshots/ShopkeeperProfile.png)
+
+### Shopkeeper Product Details
+![shopkeeper product screenshot](doEmart-screenshots/ProductDetails.png)
+
+### Shopkeeper Add products
+![shopkeeper screenshot](doEmart-screenshots/AddProducts.png)
+
+### Shopkeeper Edit products
+![shopkeeper edit screenshot](doEmart-screenshots/EditProduct.png)
+
+### Shopkeeper New orders
+![shopkeeper order screenshot](doEmart-screenshots/NewOrders.png)
+
+### User Signup
+![user signup screenshot](doEmart-screenshots/userSignup.png)
+
+### User Login
+![user login screenshot](doEmart-screenshots/userLogin.png)
+
+### User Homepage
+![user home screenshot](doEmart-screenshots/userHomepage.png)
+
+### User Product listing 
+![user product screenshot](doEmart-screenshots/userProductpage.png)
+
+### User Product Details with shop profile
+![user product screenshot](doEmart-screenshots/userProductDetail.png)
+
+### User Order page
+![user order screenshot](doEmart-screenshots/userOrderPage.png)
+![user order screenshot](doEmart-screenshots/orderedpage.png)
+
+### User order history
+![user order screenshot](doEmart-screenshots/orderHistory.png)
+
 ## 👨‍💻 Contributors
 - [Muruga Sutha K](https://github.com/Murugasutha)
 
